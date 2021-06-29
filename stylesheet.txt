@@ -1,0 +1,8 @@
+body{
+
+colour:blue;
+font-size:30px;
+}
+h2{
+text.decoration:underline;
+}
